@@ -2,6 +2,7 @@ Repository for the Bit-Bot robot. It is a bipedal walking robot, which likes to 
 Image:
 
 Early Code:
+
 #include <ESP32Servo.h>
 //Uses ESP32 DEVKIT V1. Drivers for board are here:https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
