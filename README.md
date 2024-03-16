@@ -1,4 +1,5 @@
 Repository for the Bit-Bot robot. It is a bipedal walking robot, which likes to waddle around. :)
+
 Image:
 
 Early Code:
