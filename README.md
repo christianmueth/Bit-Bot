@@ -5,11 +5,12 @@ The robot leverages pre-programmed servo motions, as well as feedback from an IM
 Image:
 
 ![Screenshot_20240316_003534_Video Player](https://github.com/christianmueth/Bit-Bot/assets/59476460/d388fee1-2fcb-4230-b7a4-f7c8421df1db)
+
 Circuit:
 ![image](https://github.com/user-attachments/assets/291f6f00-660a-4130-b077-f80c01456b87)
 
 
-Early Code:
+Code (see bit_bot4 ino file):
 
 #include <ESP32Servo.h>
 #include <Wire.h>
