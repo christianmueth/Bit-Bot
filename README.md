@@ -1,5 +1,7 @@
 Repository for the Bit-Bot robot. It is a bipedal walking robot, which likes to waddle around. :)
 
+The robot leverages pre-programmed servo motions, as well as feedback from an IMU sensor, to achieve a walking gait.
+
 Image:
 
 ![Screenshot_20240316_003534_Video Player](https://github.com/christianmueth/Bit-Bot/assets/59476460/d388fee1-2fcb-4230-b7a4-f7c8421df1db)
